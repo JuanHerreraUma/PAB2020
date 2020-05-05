@@ -10,9 +10,6 @@ public class Fibonacci {
         } else if (n>40 || k>6){ //Límites propuestos por Rosalind
             throw new RuntimeException("Los parámetros están fuera de rango"); //Lo especifica el enunciado de Rosalind
 
-        } else if (n == 1 || n == 2) {
-            return 1;
-
         } else {
 
             int a = 1;
