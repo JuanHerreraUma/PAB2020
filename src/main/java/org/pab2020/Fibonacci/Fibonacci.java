@@ -1,5 +1,11 @@
 package org.pab2020.Fibonacci;
 
+/**
+ * This class implements a method in order to solve Rosalind's Rabbits task.
+ *
+ * @author Juan Antonio Herrera Conde
+ */
+
 public class Fibonacci {
 
     public long compute(int n, int k) {

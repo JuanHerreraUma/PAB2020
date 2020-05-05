@@ -10,6 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 public class FibonacciTest {
 
     //N es el número de meses, K es el número de conejos, Y es el resultado
+    //Procederemos a realizar las pruebas unitarias para la clase Fibonacci
     
     @Test
     public void Fibonacci5MesesCon3ConejosDa19() {
